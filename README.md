@@ -54,7 +54,7 @@ mysql> desc hospital;
 13 rows in set (0.01 sec)
 
 # note: 
-if you want to give all values as string it will work otherwise take specific datatyps for each rows.
+if you want to give all values as string it will work otherwise take specific data for datatype each row.
 
 ## GUI preview:
 ![image](https://user-images.githubusercontent.com/67269209/162787987-9b02a8da-382f-4a96-b594-b73ca459d308.png)
